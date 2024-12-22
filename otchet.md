@@ -9,3 +9,12 @@
 Затем был создан пустой файл author.txt и добавлен в git\
 <img width="520" alt="Снимок экрана 2024-12-20 в 17 31 52" src="https://github.com/user-attachments/assets/3fb6db07-0698-4f3e-b05e-f381c348c6d6" />
 ## Задание 2
+Для выполнения второго задания переходим в папку task2\
+В целом, дальше по инструкции\
+<img width="718" alt="Снимок экрана 2024-12-21 в 00 24 13" src="https://github.com/user-attachments/assets/ceeb82c0-b880-43c2-900a-a4fb0283045e" />\
+<img width="726" alt="Снимок экрана 2024-12-22 в 19 55 15" src="https://github.com/user-attachments/assets/bb797a39-b92c-462e-a17f-8b9c7c8426ca" />\
+<img width="771" alt="Снимок экрана 2024-12-22 в 19 55 49" src="https://github.com/user-attachments/assets/a7daafb9-7207-478e-9d45-e5b5e8b81935" />\
+<img width="822" alt="Снимок экрана 2024-12-22 в 19 56 18" src="https://github.com/user-attachments/assets/37717f4f-5a41-489b-9c86-72ac948d953f" />
+
+
+
